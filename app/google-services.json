@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "127880417144",
+    "project_id": "kotlin-firestore-5f5a8",
+    "storage_bucket": "kotlin-firestore-5f5a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127880417144:android:ccc5040a27e3d918cf028d",
+        "android_client_info": {
+          "package_name": "com.example.firebase_realtime1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK7VivfPf2ZP94ALd1gEVwZo2RhtHlxeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
